@@ -1,0 +1,5 @@
+f = open("new.txt","w")
+# f = open("new.txt")
+# print(f.read(10))
+f.write("I have all Rights")
+f.close()

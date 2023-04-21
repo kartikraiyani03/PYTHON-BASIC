@@ -1,0 +1,5 @@
+a = input("Enter the First Number : ")
+a = int(a)
+b = input("Enter the Second Number : ")
+b = int(b)
+print((a+b)/2)
